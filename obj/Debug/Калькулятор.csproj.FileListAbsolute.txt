@@ -1,0 +1,29 @@
+C:\Users\FluxxWave\Desktop\Ебаная аммосова\Калькулятор\Калькулятор\bin\Debug\Калькулятор.exe.config
+C:\Users\FluxxWave\Desktop\Ебаная аммосова\Калькулятор\Калькулятор\obj\Debug\Калькулятор.csprojResolveAssemblyReference.cache
+C:\Users\FluxxWave\Desktop\Ебаная аммосова\Калькулятор\Калькулятор\obj\Debug\Калькулятор.Form1.resources
+C:\Users\FluxxWave\Desktop\Ебаная аммосова\Калькулятор\Калькулятор\obj\Debug\Калькулятор.Properties.Resources.resources
+C:\Users\FluxxWave\Desktop\Ебаная аммосова\Калькулятор\Калькулятор\obj\Debug\Калькулятор.csproj.GenerateResource.Cache
+C:\Users\FluxxWave\Desktop\Ебаная аммосова\Калькулятор\Калькулятор\bin\Debug\Калькулятор.exe
+C:\Users\FluxxWave\Desktop\Ебаная аммосова\Калькулятор\Калькулятор\bin\Debug\Калькулятор.pdb
+C:\Users\FluxxWave\Desktop\Ебаная аммосова\Калькулятор\Калькулятор\obj\Debug\Калькулятор.exe
+C:\Users\FluxxWave\Desktop\Ебаная аммосова\Калькулятор\Калькулятор\obj\Debug\Калькулятор.pdb
+C:\Users\Максон\Desktop\Калькулятор\Калькулятор\bin\Debug\Калькулятор.exe.config
+C:\Users\Максон\Desktop\Калькулятор\Калькулятор\obj\Debug\Калькулятор.exe
+C:\Users\Максон\Desktop\Калькулятор\Калькулятор\obj\Debug\Калькулятор.pdb
+C:\Users\Максон\Desktop\Калькулятор\Калькулятор\obj\Debug\Калькулятор.csprojResolveAssemblyReference.cache
+C:\Users\Максон\Desktop\Калькулятор\Калькулятор\obj\Debug\Калькулятор.Form1.resources
+C:\Users\Максон\Desktop\Калькулятор\Калькулятор\obj\Debug\Калькулятор.Properties.Resources.resources
+C:\Users\Максон\Desktop\Калькулятор\Калькулятор\obj\Debug\Калькулятор.csproj.GenerateResource.Cache
+C:\Users\Максон\Desktop\Калькулятор\Калькулятор\bin\Debug\Калькулятор.exe
+C:\Users\Максон\Desktop\Калькулятор\Калькулятор\bin\Debug\Калькулятор.pdb
+C:\Users\FluxxWave\Desktop\Калькулятор\Калькулятор\bin\Debug\Калькулятор.exe.config
+C:\Users\FluxxWave\Desktop\Калькулятор\Калькулятор\obj\Debug\Калькулятор.exe
+C:\Users\FluxxWave\Desktop\Калькулятор\Калькулятор\obj\Debug\Калькулятор.pdb
+C:\Users\FluxxWave\Desktop\Калькулятор\Калькулятор\bin\Debug\Калькулятор.exe
+C:\Users\FluxxWave\Desktop\Калькулятор\Калькулятор\bin\Debug\Калькулятор.pdb
+C:\Users\FluxxWave\Desktop\Калькулятор\Калькулятор\obj\Debug\Калькулятор.csprojResolveAssemblyReference.cache
+C:\Users\FluxxWave\Desktop\Калькулятор\Калькулятор\obj\Debug\Калькулятор.Form1.resources
+C:\Users\FluxxWave\Desktop\Калькулятор\Калькулятор\obj\Debug\Калькулятор.Properties.Resources.resources
+C:\Users\FluxxWave\Desktop\Калькулятор\Калькулятор\obj\Debug\Калькулятор.csproj.GenerateResource.Cache
+C:\Users\FluxxWave\Desktop\Калькулятор\Калькулятор\bin\Debug\Калькулятор.exe.CodeAnalysisLog.xml
+C:\Users\FluxxWave\Desktop\Калькулятор\Калькулятор\bin\Debug\Калькулятор.exe.lastcodeanalysissucceeded
