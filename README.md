@@ -1,6 +1,5 @@
 <br />
 <div align="center">
-  <a href="https://github.com/wwww74/Math_Calc">
   </a>
 
   <h3 align="center">Mathematical Calculator</h3>
@@ -26,15 +25,11 @@
 1. Перейдите в рабочую область
 2. Клонируйте репозиторий
 ```sh
-git clone https://github.com/wwww74/Math_Calc.git
+git clone https://github.com/kamikazeZXC/calculator.git
 ```
 3. Перейдите в клонированный каталог
 ```sh
 cd bin/Debug
-```
-4. Запустите исполняемый файл
-```sh
-start Math_Calc.exe
 ```
 ## Контакты
 Разработчик - [@Админ калькулятора](https://t.me/KamikazeZXC) - t1zziggwp@gmail.com
