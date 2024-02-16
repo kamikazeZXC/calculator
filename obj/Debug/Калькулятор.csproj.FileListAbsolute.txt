@@ -25,5 +25,3 @@ C:\Users\FluxxWave\Desktop\Калькулятор\Калькулятор\obj\Deb
 C:\Users\FluxxWave\Desktop\Калькулятор\Калькулятор\obj\Debug\Калькулятор.Form1.resources
 C:\Users\FluxxWave\Desktop\Калькулятор\Калькулятор\obj\Debug\Калькулятор.Properties.Resources.resources
 C:\Users\FluxxWave\Desktop\Калькулятор\Калькулятор\obj\Debug\Калькулятор.csproj.GenerateResource.Cache
-C:\Users\FluxxWave\Desktop\Калькулятор\Калькулятор\bin\Debug\Калькулятор.exe.CodeAnalysisLog.xml
-C:\Users\FluxxWave\Desktop\Калькулятор\Калькулятор\bin\Debug\Калькулятор.exe.lastcodeanalysissucceeded
