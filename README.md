@@ -1,2 +1,2 @@
-# calculator v1
+# calculator v2
 Калькулятор ИСП(11)22-2 Андрюша
