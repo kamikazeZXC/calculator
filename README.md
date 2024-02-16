@@ -7,10 +7,7 @@
 
   <p align="center">
     Потрясающий калькулятор для ускорения ваших расчетов!
-    <br />
-    <a href="https://github.com/wwww74/Math_Calc">Посмотреть демонстрационную версию</a>
-    ·
-    <a href="https://github.com/wwww74/Math_Calc/issues">Сообщить об ошибке</a>
+    <br />   
   </p>
 </div>
 
@@ -40,6 +37,5 @@ cd bin/Debug
 start Math_Calc.exe
 ```
 ## Контакты
-Разработчик - [@wwww74](https://t.me/wwww74) - m_m4vr1n@mail.ru
+Разработчик - [@Админ калькулятора](https://t.me/KamikazeZXC) - t1zziggwp@gmail.com
 <br/>
-Ссылка на проект: [https://github.com/wwww74/Math_Calc](https://github.com/wwww74/Math_Calc)
