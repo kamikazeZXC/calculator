@@ -1,7 +1,6 @@
 <br />
 <div align="center">
   <a href="https://github.com/wwww74/Math_Calc">
-    <img src="bin/Debug/calculator.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Mathematical Calculator</h3>
